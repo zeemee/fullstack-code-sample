@@ -2,7 +2,7 @@
 
 ###### Purpose
 
-The purpose of this exercise is to give us an example of your work within bounds, guildelines and specifications suppled to you. It provides us some insight into how you work, how you think, and how you build things. It also provides the opportunity for multiple discussion points during an interview. Hopefully this is also fun!
+The purpose of this exercise is to give us an example of your work within bounds, guidelines and specifications supplied to you. It provides us some insight into how you work, how you think, and how you build things. It also provides the opportunity for multiple discussion points during an interview. Hopefully this is also fun!
 
 ###### The Ask
 
@@ -30,7 +30,7 @@ The search endpoint should be defined as follows:
 
 `GET /api/search?index=<number>&limit=<number>&query=<string>`
 
-Paramaters:
+Parameters:
 
 **index**: A numerical index that represents the offset to start returning results from. Default 0.
 
